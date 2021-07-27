@@ -7,6 +7,7 @@ namespace Demo_Learning
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Let's add some more text.");
         }
     }
 }
